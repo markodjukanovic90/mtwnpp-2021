@@ -1,0 +1,7 @@
+Dato je 5 instanci maksimalne dimenzije N=500 i K=20
+Ostale instance se dobijaju kopiranjem
+prvih N vrsta i prvih K kolona.
+
+Na primer inst_100_4c.txt se dobija
+kopiranjem prvih 100 vrsta i prve 4 kolone
+iz mdtwnpp_500_20c.txt
