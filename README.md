@@ -10,6 +10,8 @@ In this project, we propose two new mixed-integer programming models for solving
 # Repository content
 
 1. <a href="https://github.com/markodjukanovic90/mtwnpp-2021/tree/master/instances/Kratica">Instances</a>
+2. <a href="https://github.com/markodjukanovic90/mtwnpp-2021/tree/master/implementations_2020">Implemenatation executable file</a>
+3. <a href="https://github.com/markodjukanovic90/mtwnpp-2021/tree/master/tabele">Results</a>
 
 
 
